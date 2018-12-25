@@ -1,0 +1,66 @@
+BPEL4WS, XPDL, BPML, WSCI, BPSS, YAWL и т. д.			
+клиенты, сервисы, порты, WSDL, svc			
+чтение, структура WSDL			
+online code format (XML, SQL и пр), Note++			
+SoapUI			
+.svc		https://docs.microsoft.com/ru-ru/dotnet/framework/wcf/feature-details/deploying-an-internet-information-services-hosted-wcf-service	
+WCF	Windows Communication Foundation		
+IIS	Internet Information Services (IIS)		
+TCP port 8265 uses the Transmission Control Protocol			
+ноды, ноды прокси-сервера, прокси-сервер			
+XHR, Network browser			
+UML, sequence-diagram, диаграмма последовательности		https://www.intuit.ru/studies/courses/32/32/lecture/1014?page=1	https://support.office.com/ru-ru/article/%D0%A1%D1%85%D0%B5%D0%BC%D1%8B-fa9b7a59-3099-4637-820c-1b41b24fc2a7?ui=ru-RU&rs=ru-RU&ad=RU#ID0EAABAAA=NetworkTab
+RDP, SSH			
+проброс портов		http://andreyolegovich.ru/PC/it-helpdesk/rdp_ssh_tunnel.php	
+Putty			
+"SAS Event Stream Processing
+HTTP RESTFUL
+SMTP
+NETWORK SNIFFERS
+WEB SERVICES
+JMS
+MQTT
+SYSLOG
+DB LOG SNIFFERS
+FILE/SOCKET
+XML / JSON
+ODBC"			
+Altova XMLSpy - аналоги?			
+CREATE DB sql ms server		https://docs.microsoft.com/ru-ru/sql/t-sql/statements/create-database-transact-sql?view=sql-server-2017	
+SQL Server + бесплатный SQL Management Studio + лицензия SQL Server Developer для разработчика бесплатная.		https://habr.com/company/pgdayrussia/blog/329842/	
+хост			
+"Внедрен учет Story Points по SCRUM задачам в Jira
+Освоены основные отчеты SCRUM: Velocity Chart, Burndown Chart"			
+view, представления SQL			
+сообщения из шины Ibm MQ (шина слушается всегда в отдельном потоке)			
+http://www.sql.ru/forum/1067734/xsd-to-wsdl-sozdanie-veb-servisa			
+шаблон Model-view-controller			
+ASP.NET MVC Framework 			
+git, работа с версиями			
+swagger			
+Source Lines of Code — SLOC			
+макрос			
+Web-сервер Tomcat, благодаря которому вы можете развернуть собственный Web-сервис,			
+groovy			
+симемы BI			
+T-SQL работы с датами	https://www.site-do.ru/db/sql13.php		
+VBA	Visual Basic for Applications - диалект языка Visual Basic, расширяющий возможности Visual Basic и предназначенный для работы с приложениями Microsoft Office и другими приложениями от Microsoft и третьих фирм.		
+COM-компонент	COM (англ. Component Object Model — модель компонентного объекта) — это технологический стандарт от компании Microsoft, предназначенный для создания программного обеспечения на основе взаимодействующих компонентов объекта, каждый из которых может использоваться во многих программах одновременно		
+dns	система доменных имён (DNS, Domain Name System). В ней хранится связь между относительно легко запоминаемым названием сайта и его трудно запоминаемым числовым адресом.		
+RAD	RAD (от англ. rapid application development — быстрая разработка приложений) — концепция создания средств разработки программных продуктов, уделяющая особое внимание быстроте и удобству программирования, созданию технологического процесса, позволяющего программисту максимально быстро создавать компьютерные программы. Практическое определение: RAD — это жизненный цикл процесса проектирования, созданный для достижения более высокой скорости разработки и качества ПО, чем это возможно при традиционном подходе к проектированию		
+sql-ex	mehricepbe3malaka		
+Непрерывная интеграция (CI, англ. Continuous Integration)	 практика разработки программного обеспечения, которая заключается в слиянии рабочих копий в общую основную ветвь разработки несколько раз в день и выполнении частых автоматизированных сборок проекта для скорейшего выявления потенциальных дефектов и решения интеграционных проблем		
+Appcelerator Titanium 	платформе для создания мобильных и десктопных кроссплатформенных приложений на JavaScript (HTML+CSS в придачу)		
+Требования по обесп безоп ИС (прилож)			
+XSS межсайтов скриптинг, sql-inj., OS Command inj., LDAP, XPath inj, переполнение буфера, cross-site request forgery CSRF; 			
+сегмент DMZ >> серверный >> АРМ >> беспроводных сетей  >> сегмент общего пользования			
+ELK — сочетание трех OpenSource проектов: ElasticSearch, Logstash и Kibana.			
+docker			
+ESB-шина, шлюзы	https://www.ibm.com/developerworks/ru/library/ws-enterpriseconnectivitypatterns/index.html		
+ORM (англ. Object-Relational Mapping, рус. объектно-реляционное отображение, или преобразование) 			
+Squid 			
+OBFS, tor			
+IIS (Internet Information Services, до версии 5.1 — Internet Information Server) — проприетарный набор серверов для нескольких служб Интернета от компании Microsoft. IIS распространяется с Windows NT. Основным компонентом IIS является веб-сервер, который позволяет размещать в Интернете сайты			
+Специальным программным обеспечением, используемым Банком исключительно для осуществления внутреннего контроля в целях ПОД/ФТ и ФРОМУ, является: - «АРМ финансового мониторинга», разработчик ЗАО «Комита» (рекомендовано Банком России в письме от 17.12.2008 № 12-5-3/2563); - модуль «Финансовый мониторинг» АБС Банка Ва-Банк, разработчик Компания «Флекс Софт»; - ЦФТ-Банк (разработчик ЗАО «ЦФТ»); - X-Compliance, разработчик МИ Группа «Интерфакс».			
+gpresult /r (групповые политики)			
+gherkin, cucumber, Lettuce, Behave			
