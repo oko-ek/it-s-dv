@@ -10,7 +10,7 @@ SOA Service-oriented architecture
 CORBA (Общая архитектура посредника запросов к объектам, Common Object Request Broker Architecture)
 DCOM (Распределенная модель компонентных объектов, Distributed Component Object Model)
 UDDI (Universal Description Discovery & Integration) — стандарт для индексирования веб сервисов. 
-ESB (Enterprise Service Bus) (упрощение вызова службы за счет управления всеми взаимодействиями на пути от потребителя службы к поставщику и обратно; архитектура SOA). 1. преобразование сообщений, 2. маршрутизация. 
+ESB (Enterprise Service Bus; Интеграционная сервисная шина) (упрощение вызова службы за счет управления всеми взаимодействиями на пути от потребителя службы к поставщику и обратно; архитектура SOA). 1. преобразование сообщений, 2. маршрутизация. 
 Очередь сообщений - обеспечить асинхронное выполнение участков программы. (Увеличить скорость работы приложения. Обслуживать большее количество посетителей (масштабироваться). Использовать разные языки разработки в одном приложении)
 .svc		https://docs.microsoft.com/ru-ru/dotnet/framework/wcf/feature-details/deploying-an-internet-information-services-hosted-wcf-service	
 WCF	Windows Communication Foundation		
@@ -41,7 +41,9 @@ SQL Server + бесплатный SQL Management Studio + лицензия SQL S
 "Внедрен учет Story Points по SCRUM задачам в Jira
 Освоены основные отчеты SCRUM: Velocity Chart, Burndown Chart"			
 view, представления SQL			
-сообщения из шины Ibm MQ (шина слушается всегда в отдельном потоке)			
+сообщения из шины Ibm MQ (шина слушается всегда в отдельном потоке)
+IBM MQ — промежуточное ПО для сообщения (Message Oriented Middleware).  IBM i (IBM System i, ранее AS/400
+
 http://www.sql.ru/forum/1067734/xsd-to-wsdl-sozdanie-veb-servisa			
 шаблон Model-view-controller			
 ASP.NET MVC Framework 			
@@ -75,4 +77,4 @@ gpresult /r (групповые политики)
 gherkin, cucumber, Lettuce, Behave			
 wireshark, проброс портов
 CMS (Content Management System). Примеры: Joomla, Drupal, MODx, 1C Битрикс, WordPress
-
+Логирование: ELK
