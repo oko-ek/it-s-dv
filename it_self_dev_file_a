@@ -2,7 +2,16 @@ BPEL4WS, XPDL, BPML, WSCI, BPSS, YAWL и т. д.
 клиенты, сервисы, порты, WSDL, svc			
 чтение, структура WSDL			
 online code format (XML, SQL и пр), Note++			
-SoapUI			
+SoapUI
+SOAP (Simple Object Access Protocol) — протокол передачи информации (вызова RPC) через глобальную сеть, организованный поверх HTTP
+RPC (Remote Procedure Call, или удаленный вызов процедур)
+COM (Component Object Model)
+SOA Service-oriented architecture
+CORBA (Общая архитектура посредника запросов к объектам, Common Object Request Broker Architecture)
+DCOM (Распределенная модель компонентных объектов, Distributed Component Object Model)
+UDDI (Universal Description Discovery & Integration) — стандарт для индексирования веб сервисов. 
+ESB (Enterprise Service Bus) (упрощение вызова службы за счет управления всеми взаимодействиями на пути от потребителя службы к поставщику и обратно; архитектура SOA). 1. преобразование сообщений, 2. маршрутизация. 
+Очередь сообщений - обеспечить асинхронное выполнение участков программы. (Увеличить скорость работы приложения. Обслуживать большее количество посетителей (масштабироваться). Использовать разные языки разработки в одном приложении)
 .svc		https://docs.microsoft.com/ru-ru/dotnet/framework/wcf/feature-details/deploying-an-internet-information-services-hosted-wcf-service	
 WCF	Windows Communication Foundation		
 IIS	Internet Information Services (IIS)		
