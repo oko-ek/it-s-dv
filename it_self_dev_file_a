@@ -78,3 +78,5 @@ gherkin, cucumber, Lettuce, Behave
 wireshark, проброс портов
 CMS (Content Management System). Примеры: Joomla, Drupal, MODx, 1C Битрикс, WordPress
 Логирование: ELK
+DHCP (клиент-серверный), Dynamic Host Configuration Protocol.
+Маска подсети — битовая маска для определения по IP-адресу адреса подсети и адреса узла этой подсети. В отличие от IP-адреса маска подсети не является частью IP-пакета.
