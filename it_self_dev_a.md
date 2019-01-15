@@ -163,6 +163,8 @@ http://www.uml.org/index.htm
 https://www.omg.org/spec/UML/
 
 Data Protection Application Programming Interface, или сокращенно DPAPI - интерфейс для защиты данных Windows
+https://www.passcape.com/index.php?section=docsys&cmd=details&id=25
+
 
 AES 256 (режим например CBC)
 SHA 512
@@ -172,5 +174,5 @@ PBKDF2 PKCS #5
 
 крипто провайдер 
 
-
+Межсайтовый скриптинг (XSS)
 
