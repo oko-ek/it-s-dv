@@ -1,3 +1,6 @@
+Язык разметки Markdown:
+https://gist.github.com/Jekins/2bf2d0638163f1294637
+
 BPEL4WS, XPDL, BPML, WSCI, BPSS, YAWL и т. д.			
 клиенты, сервисы, порты, WSDL, svc			
 чтение, структура WSDL			
@@ -154,3 +157,20 @@ https://www.tiobe.com/tiobe-index/
 индекс популярности языков программирования
 
 QLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine
+
+https://www.omg.org/about/omg-standards-introduction.htm
+http://www.uml.org/index.htm
+https://www.omg.org/spec/UML/
+
+Data Protection Application Programming Interface, или сокращенно DPAPI - интерфейс для защиты данных Windows
+
+AES 256 (режим например CBC)
+SHA 512
+PBKDF2 PKCS #5
+
+канал RPC
+
+крипто провайдер 
+
+
+
