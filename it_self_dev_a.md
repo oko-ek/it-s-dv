@@ -176,3 +176,5 @@ PBKDF2 PKCS #5
 
 Межсайтовый скриптинг (XSS)
 
+DigitalOcean
+AWS EC2
