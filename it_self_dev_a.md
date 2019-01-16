@@ -178,3 +178,7 @@ PBKDF2 PKCS #5
 
 DigitalOcean
 AWS EC2
+
+Windows Communication Foundation (WCF) — программный фреймворк, используемый для обмена данными между приложениями, входящий в состав .NET Framework. 
+
+
