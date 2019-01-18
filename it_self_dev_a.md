@@ -181,4 +181,44 @@ AWS EC2
 
 Windows Communication Foundation (WCF) — программный фреймворк, используемый для обмена данными между приложениями, входящий в состав .NET Framework. 
 
+ARIS (Architecture of Integrated Information Systems — архитектура интегрированных информационных систем).
+
+Business requirements, concept of operations (abbreviated CONOPS), stakeholder requirements specification (StRS)
+
+Rapid Application Development (RAD) methodologies such as DSDM or Unified Process (RUP, AUP)/
+
+System Requirements Specification (SRS) (also known as a Software Requirements Specification)
+
+Use Case Diagrams
+
+acceptance tests; Test Driven Development
+
+data flow diagram (DFD) (before UML diagrams)
+
+Structural UML diagrams
+
++ Class diagram
++ Package diagram
++ Object diagram
++ Component diagram
++ Composite structure diagram
++ Deployment diagram
+
+Behavioral UML diagrams
+
++ Activity diagram
++ Sequence diagram
++ Use case diagram
++ State diagram
++ Communication diagram
++ Interaction overview diagram
++ Timing diagram
+
+Flowchart = Блоксхема (тоже UML)
+
+
+
+
+
+
 
