@@ -18,6 +18,9 @@ Selenium IDE - recorder, записывает действия пользова�
 IDL - (Interface Description Language или Interface Definition Language) — язык спецификаций для описания интерфейсов, синтаксически похожий на описание классов в языке C++.
 
 Robot Framework — фреймворк для разработки приемочных автотестов (ATDD)
+Protractor
+Katalon Studio
+
 ATDD = Acceptance test–driven development
 
 FitNesse is a web server, a wiki and an automated testing tool for software. It is based on Ward Cunningham's Framework for Integrated Test
