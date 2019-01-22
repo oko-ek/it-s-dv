@@ -29,3 +29,12 @@ Gauge is a light weight cross-platform test automation tool
 
 DSL - Предметно-ориентированный язык (англ. domain-specific language, DSL — «язык, специфический для предметной области»)
 
+Behavior-Driven Testing (BDD): Codeception, Behat
+
+IBM Jazz Adapter, AutoTest logger, MBT Framework, Android Tester, MD5-генератор.
+
+Unit test:: Unit, PHPUnit, TestNG, PyTest
+
+GUI test:  TestComplete, Selenium, Soap UI, Appium, RFT, QTP/UFT, SAP TAO, UI Automator.
+
+Testim.io , Appvance, Test.ai, https://www.functionize.com/
