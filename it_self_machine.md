@@ -6,3 +6,12 @@ OpenOffice/LibreOffice - замена MS Office
 
 Пакетное задание (batch job)
 
+Hadoop and MapReduce
+
+https://www.kaggle.com/
+
+http://dataring.ru/
+
+R, Python, Machine Learning, базы данных, MSSQL, MySQL, Postgresql. 
+разбираться в математике, статистике и программировании.
+
