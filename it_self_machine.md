@@ -15,3 +15,6 @@ http://dataring.ru/
 R, Python, Machine Learning, базы данных, MSSQL, MySQL, Postgresql. 
 разбираться в математике, статистике и программировании.
 
+IPython Notebook
+
+sh, bash, csh
