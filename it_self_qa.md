@@ -38,3 +38,14 @@ Unit test:: Unit, PHPUnit, TestNG, PyTest
 GUI test:  TestComplete, Selenium, Soap UI, Appium, RFT, QTP/UFT, SAP TAO, UI Automator.
 
 Testim.io , Appvance, Test.ai, https://www.functionize.com/
+
+flaky-тесты 
+
+ad hoc тестирование (импровизация)
+
+Exploratory Testing (исследовательское тестирование; ad hoc со смыслом) // http://www.satisfice.com/tools/procedure.pdf
+
+Сценарное тестирование
+
+
+
