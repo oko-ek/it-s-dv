@@ -40,12 +40,21 @@ GUI test:  TestComplete, Selenium, Soap UI, Appium, RFT, QTP/UFT, SAP TAO, UI Au
 Testim.io , Appvance, Test.ai, https://www.functionize.com/
 
 flaky-тесты 
+возможные причины:
+-Скорость Ajax-запросов;
+-Порядок Ajax-запросов;
+-Скорость JS;
+-Размер окна браузера;
 
 ad hoc тестирование (импровизация)
 
 Exploratory Testing (исследовательское тестирование; ad hoc со смыслом) // http://www.satisfice.com/tools/procedure.pdf
 
 Сценарное тестирование
+
+
+Selenide // https://selenide.org/
+
 
 
 
