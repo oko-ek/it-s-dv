@@ -216,8 +216,7 @@ Behavioral UML diagrams
 
 Flowchart = Блоксхема (тоже UML)
 
-
-
+Root-cause-analysis
 
 
 
