@@ -162,4 +162,9 @@ API Key
 CSRF (англ. Сross Site Request Forgery — «межсайтовая подделка запроса», CSRF)
 oracle / вызов функции через dblink oracle
 
+HMAC (hash-based message authentication code, код аутентификации (проверки подлинности) сообщений, использующий хеш-функции)
+API Key
+CSRF (англ. Сross Site Request Forgery — «межсайтовая подделка запроса», CSRF)
+oracle / вызов функции через dblink oracle
+
 
